@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Personal Task Manager.props" />
-</Project>
